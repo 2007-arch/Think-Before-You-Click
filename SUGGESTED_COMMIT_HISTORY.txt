@@ -1,5 +1,0 @@
-Suggested meaningful commits (make each after a real change):
-1. Add initial phishing awareness project files
-2. Improve README project description and usage instructions
-3. Add phishing warning signs and safety tips to the awareness guide
-4. Add incident reporting template and contribution security rules
